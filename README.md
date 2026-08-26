@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
