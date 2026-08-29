@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
