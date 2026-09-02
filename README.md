@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
 | ------- |
