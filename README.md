@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
