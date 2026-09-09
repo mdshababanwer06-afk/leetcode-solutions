@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1922-count-good-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
