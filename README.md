@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0050-powx-n) |
+| [0836-rectangle-overlap](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
