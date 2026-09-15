@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
