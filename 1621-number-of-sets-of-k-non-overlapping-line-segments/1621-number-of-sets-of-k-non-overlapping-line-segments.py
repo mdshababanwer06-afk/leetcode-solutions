@@ -2,6 +2,10 @@ class Solution:
     def numberOfSets(self, n: int, k: int) -> int:
         MOD = 10**9 + 7
 
+        if 2 * k > n + k - 1:
+            return 0
+
+        # dp[j] = C(i, j)
         dp = [0] * (2 * k + 1)
         dp[0] = 1
 
