@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0344-reverse-string) |
