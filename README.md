@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0835-image-overlap](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -219,5 +220,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
