@@ -1,10 +1,6 @@
 class Solution:
     def evaluate(self, s: str, knowledge: list[list[str]]) -> str:
-        # Store key-value pairs
-        mp = {}
-
-        for key, value in knowledge:
-            mp[key] = value
+        mp = dict(knowledge)
 
         result = []
         i = 0
@@ -12,20 +8,13 @@ class Solution:
         while i < len(s):
 
             if s[i] == '(':
-
-                # Find closing bracket
                 j = i + 1
 
                 while s[j] != ')':
                     j += 1
 
                 key = s[i + 1:j]
-
-                # Get value from dictionary
-                if key in mp:
-                    result.append(mp[key])
-                else:
-                    result.append("?")
+                result.append(mp.get(key, "?"))
 
                 i = j + 1
 
