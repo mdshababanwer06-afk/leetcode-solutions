@@ -8,31 +8,14 @@ class Solution:
         if head is None or head.next is None:
             return head
 
-        values = []
+        odd  = head
+        even = head.next
+        even_head = even
+        while even is not None and even.next is not None:
+            odd.next = odd.next.next
+            odd = odd.next
+            even.next=even.next.next
+            even = even.next
 
-        # Odd-positioned nodes
-        temp = head
-        while temp:
-            values.append(temp.val)
-            if temp.next is None:
-                break
-            temp = temp.next.next
-
-        # Even-positioned nodes
-        temp = head.next
-        while temp:
-            values.append(temp.val)
-            if temp.next is None:
-                break
-            temp = temp.next.next
-
-        # Update the linked list
-        temp = head
-        index = 0
-
-        while temp:
-            temp.val = values[index]
-            index += 1
-            temp = temp.next
-
+        odd.next = even_head
         return head
