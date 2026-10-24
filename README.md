@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0509-fibonacci-number) |
