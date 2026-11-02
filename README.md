@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0503-next-greater-element-ii](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -450,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
