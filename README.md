@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0326-power-of-three) |
