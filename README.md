@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0078-subsets) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0860-lemonade-change) |
