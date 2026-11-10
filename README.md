@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1154-day-of-the-year](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
