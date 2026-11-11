@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -511,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/mdshababanwer06-afk/leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
